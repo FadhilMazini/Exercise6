@@ -67,6 +67,6 @@ graph TD
 ### 2. **Tugas LED Merah**
   - LED merah menyala selama 100ms saat mengakses resource bersama.
   - LED merah padam selama 100ms sebelum kembali menyala.
-  - 
+    
 ### 3. **LED Biru**
   - LED biru tidak menyala karena kontensi resource dihilangkan melalui mekanisme eksklusi mutual.
