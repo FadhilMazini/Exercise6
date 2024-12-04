@@ -58,6 +58,8 @@ graph TD
     D -->|Keluar Bagian Kritis| E
     F[LED Biru] -->|Kontensi Terjadi| B
 ```
+## Dokumentasi
+![WhatsApp Video 2024-12-04 at 08 43 08_ae348cdf](https://github.com/user-attachments/assets/18511f82-e1ae-4c5d-8f64-789f57deb33d)
 
 ## Hasil Perilaku LED
 ### 1. **Tugas LED Hijau**
